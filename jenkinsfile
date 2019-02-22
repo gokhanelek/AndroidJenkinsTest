@@ -1,25 +1,10 @@
 pipeline {
-  agent any 
-  stages {
-    stage('Compile') {
-      steps {
-        // Compile the app and its dependencies
-        sh './gradlew compileDebugSources'
-      }
+    agent any
+    stages {
+        stage('build') {
+            steps {
+                sh './gradlew build'
+            }
+        }
     }
-    stage('Build APK') {
-      steps {
-        // Finish building and packaging the APK
-        sh './gradlew clean'
-        sh './gradlew assembleDebug'
-      }
-    }
-    stage('Static analysis') {
-      steps {
-        // Run Lint and analyse the results
-        sh './gradlew lintDebug'
-        androidLint pattern: '**/lint-results-*.xml'
-      }
-    }
-  }
 }
