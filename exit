@@ -1,0 +1,47 @@
+[33mcommit da260a639c8f591e95c648daca1e130ab2dfddc8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Tue Feb 26 09:02:46 2019 +0300
+
+    Gitlab push etme
+
+[33mcommit badb3e9abd2d393733ff63dadbe871c181bfeceb[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Fri Feb 22 13:57:07 2019 +0300
+
+    jenkinsfile update
+
+[33mcommit 8777b4abece737ff04a338a3889a9d4ed61b1c46[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Fri Feb 22 13:53:16 2019 +0300
+
+    pipeline test
+
+[33mcommit 9e2ecefc5854571a184c456b5500cdc7fdc593ab[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Fri Feb 22 10:33:13 2019 +0300
+
+    Jenkinsfile build
+
+[33mcommit 426deb9aebe156643c0fd4debc6e092a58331682[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Tue Feb 19 16:20:11 2019 +0300
+
+    Jenkinsfile added
+
+[33mcommit c2e78aae6fa9d01bc1886a86223faa3866898a2e[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Mon Feb 18 16:00:26 2019 +0300
+
+    Unit test
+
+[33mcommit fea3a3cdda57b1aca5a226be9c81d7fbf4ecab82[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Mon Feb 18 09:40:29 2019 +0300
+
+    UnitTest
+
+[33mcommit 95da56ea8b53aad60d5dba1f052ad5feb6d6c6fc[m
+Author: gokhanelek <gokhan.elek@digitalplanet.com.tr>
+Date:   Fri Feb 15 16:37:29 2019 +0300
+
+    Second commit
