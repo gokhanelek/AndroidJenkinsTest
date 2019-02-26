@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GitlabTest</string>
+    <string name="app_name">GitlabTest</string>,
+    <string name="ad">Adınız</string>
+    <string name="soyad">Soyadınız</string>
 </resources>
